@@ -45,3 +45,16 @@ To create an agent => Need LLM
 
 
 https://microsoft.github.io/autogen/stable/user-guide/extensions-user-guide/index.html
+
+
+# AutoGen, Langchain, Crewai, LlamaIndex
+AutoGen is a multi agent AI system with an asynchronous, event driven architecture. 
+Scalable and allows dynamic agent interactions.
+#AutoGen vs Langchain
+- Achitecture: Langchain has a chainbased sequential execution model whereas autogen has event driven async architecture.
+- Multi Agent Capabilities => Autogen excels in autonomous multi-agent collboration. Langchain focuses on a single-agent workflow with structred steps.
+- Observability: Autogen has better event tracking and langchian has basic tracing
+- Scalability : Autogen can easily scaling on complex agent netwroks, langchain synchronous design  it struggle with large scale system.
+- Use case : Autogen good for collborative AI
+
+
