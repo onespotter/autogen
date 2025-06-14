@@ -57,4 +57,16 @@ Scalable and allows dynamic agent interactions.
 - Scalability : Autogen can easily scaling on complex agent netwroks, langchain synchronous design  it struggle with large scale system.
 - Use case : Autogen good for collborative AI
 
+# AutoGen vs CrewAI
+- Flexibility : Autogen has low level and high level agentchat API, CrewAI template based model.
+- Customization: Autogen provides with deep customization while CrewAI is good for setups with limited capabilities.
+- Popularity: Autoen has a longer history and larger community, crewai has a good user base.
+- Learning Curve: Autogen has a steep learning curve whereas crewai is simpler multi agent.
+- Use case: Autogen shiones at intricate , dynamic model whereas crewai is a good for straightforward team tasks.
+
+# AutoGen vs Langgraph
+Architecture: Langgarpgh is a Graph based statfulk architecture ( built on top of langchain)
+Primary Focus: Autogen it is multi agent collabotaion, chaining and coordination between sequential/conditional steps in workflow.
+Model: Nodes
+
 
