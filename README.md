@@ -67,6 +67,7 @@ Scalable and allows dynamic agent interactions.
 # AutoGen vs Langgraph
 Architecture: Langgarpgh is a Graph based statfulk architecture ( built on top of langchain)
 Primary Focus: Autogen it is multi agent collabotaion, chaining and coordination between sequential/conditional steps in workflow.
-Model: Nodes
+Model: Langgarph has Nodes connected via edges.
+Scalability: AutoGen is good for large scale, dynamic agent interactions, Langgarph is good for linear workflows.
 
 
